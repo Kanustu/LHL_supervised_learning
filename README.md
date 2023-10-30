@@ -1,10 +1,11 @@
 # machine_learning_project-supervised-learning
 
 ## Project Outcomes
-- Supervised Learning: use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model. 
+Supervised Learning: use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model. 
 ### Duration:
 Approximately 5 hours and 30 minutes.
 ### Project Description:
+Use supervised learning techniques to build a machine learning model that can predict wether a patient has diabetes or not
 ## Exploratory Data Analysis
 Upon importing the dataset, an initial inspection of the data was performed using the `.info()` and `.describe()` methods, offering an overview of the dataset's structure and statistical summaries. Several essential checks were conducted, examining for null values, zeros, and missing data within the dataset. To delve deeper into the interrelationships between variables, a correlation heatmap was generated, providing insights into the pairwise correlations. Histograms were employed to visualize the distribution of the data, offering an understanding of the frequency distribution of the variables. Boxplots were created to identify and visualize outliers present in each column, providing insights into the spread and distribution of values. Furthermore, a comparative analysis was conducted by examining the data concerning diabetes status, allowing for a detailed comparison of the data distributions between the groups with and without diabetes. These comprehensive exploratory steps aimed to provide a thorough understanding of the dataset, its characteristics, and variations between groups, thereby laying the groundwork for further analysis and modeling.
 ## Feature Engineering
